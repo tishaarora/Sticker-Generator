@@ -36,10 +36,18 @@ You can check if Python is installed and its version by running:
 ```bash
  python --version
 ```
-2. clone the repo
-   
+2. clone the repo:
+```bash
+ xyz
+```
+
 3. get a free API Key of Bg Remove at -
 [link to api key](https://www.remove.bg/api)
+4. install the packages from requirement file using:
+```bash
+pip install -r requirements.txt
+```
+5. enter your API:  
 
 
 ## demo
