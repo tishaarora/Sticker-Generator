@@ -22,7 +22,7 @@ The project starts by cloning a specific branch of the repository from GitHub (t
 
 
 
-  ## Getting Started
+  ## 🚀Getting Started
 
 This section will guide you through setting up the Sticker Generator Bot on your local machine. Follow these simple steps to get a local copy up and running.
 
