@@ -28,7 +28,7 @@ This section will guide you through setting up the Sticker Generator Bot on your
 
 ### Prerequisites
 
-Ensure you have the following installed on your system:
+1. Ensure you have the following installed on your system:
 
 - **Python 3.6+**
 
@@ -36,6 +36,8 @@ You can check if Python is installed and its version by running:
 ```bash
  python --version
 ```
+2. get a free API Key of Bg Remove at - ![website link](https://www.remove.bg/api)
+
 ## demo
 -link to demo maybe
 
