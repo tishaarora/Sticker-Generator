@@ -36,7 +36,10 @@ You can check if Python is installed and its version by running:
 ```bash
  python --version
 ```
-2. get a free API Key of Bg Remove at - ![website link](https://www.remove.bg/api)
+2. get a free API Key of Bg Remove at -
+```http
+  GET [/api/items](https://www.remove.bg/api)
+```
 
 ## demo
 -link to demo maybe
