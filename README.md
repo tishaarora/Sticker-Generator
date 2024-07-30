@@ -35,3 +35,12 @@ Ensure you have the following installed on your system:
 You can check if Python is installed and its version by running:
 ```bash
  python --version
+```
+## demo
+-link to demo maybe
+
+## output
+-screenshots of output
+![sticker](https://github.com/user-attachments/assets/1db1a608-0964-44c7-a1d8-1427932093de)
+
+
