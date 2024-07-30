@@ -10,7 +10,7 @@ Sticker generator is an AI-powered Telegram bot that allows user to generate art
 ## Requirement
 The project uses the collab file provided by user camenduru on github to access the stable diffusion 3 model notebook environment as it consumes less GPU power.
 
-The project starts by cloning a specific branch of the repository from GitHub (totoro2 branch from the [camenduru/ComfyUI repo](camenduru/ComfyUI repo)). This repository contains the necessary codebase and configuration to work with the Stable Diffusion model
+The project starts by cloning a specific branch of the repository from GitHub (totoro2 branch from the camenduru/ComfyUI repo). This repository contains the necessary codebase and configuration to work with the Stable Diffusion model
 
 
 ## Features
