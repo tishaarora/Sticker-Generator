@@ -1,5 +1,17 @@
 # Sticker-Generator
-Sticker generator is an AI-powered Telegram bot that allows user to generate artistic stickers from the description provided by user. 
+Sticker generator is an AI-powered Telegram bot that allows user to generate artistic stickers from the description provided by user.
+
+-**The bot will use advanced image creation methods using SD3 Pre-trained model from to change text into appealing pictures.
+
+-**By offering many different art styles, ways to customize, and user-friendly features, the project wants to make a smooth and fun sticker creation experience.
+
+-**Also, the bot will let users add text captions to their stickers giving them more ways to personalize and express themselves.
+
+##requirement 
+The project uses the collab file provided by user camenduru on github to access the stable diffusion 3 model notebook environment as it consumes less GPU power.
+
+The project starts by cloning a specific branch of the repository from GitHub (totoro2 branch from the camenduru/ComfyUI repo). This repository contains the necessary codebase and configuration to work with the Stable Diffusion model
+
 
 ## Features
 
@@ -7,6 +19,8 @@ Sticker generator is an AI-powered Telegram bot that allows user to generate art
 - **Multiple Art Styles:** Choose from various art styles or use prompt templates for consistent results.
 - **Add Text Captions:** Personalize your stickers with custom text captions.
 - **High-Quality Downloads:** Download generated stickers as high-quality PNG files.
+
+
 
   ## Getting Started
 
