@@ -19,4 +19,5 @@ Ensure you have the following installed on your system:
 - **Python 3.6+**
 
 You can check if Python is installed and its version by running:
-```bash python --version
+```bash
+ python --version
