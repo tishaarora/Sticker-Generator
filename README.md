@@ -38,7 +38,8 @@ You can check if Python is installed and its version by running:
 ```
 2. clone the repo:
 ```bash
- xyz
+ git clone https://github.com/tishaarora/Sticker-Generator.git
+cd StickerGen
 ```
 
 3. get a free API Key of Bg Remove at -
