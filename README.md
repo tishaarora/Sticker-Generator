@@ -39,7 +39,7 @@ You can check if Python is installed and its version by running:
 2. clone the repo:
 ```bash
  git clone https://github.com/tishaarora/Sticker-Generator.git
-cd StickerGen
+cd Sticker-Generator
 ```
 
 3. get a free API Key of Bg Remove at -
@@ -48,7 +48,7 @@ cd StickerGen
 ```bash
 pip install -r requirements.txt
 ```
-5. enter your API:  
+5. enter your API key in the codefile
 
 
 ## demo
