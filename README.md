@@ -6,6 +6,7 @@ Sticker generator is an AI-powered Telegram bot that allows user to generate art
 
 ## Demo
 - PPT: [Link to ppt](https://1drv.ms/p/c/bdb4f4c2e73dc757/EVCTwzhcm21Io41_ePRo99sBcgV0jgR9q9x_bCmwwZRS-Q?e=shTL1Y)
+- REPORT: [Link to report](https://drive.google.com/file/d/1_R4oXfKovYJP6AY2tW-lDn0pmkqEisEI/view?usp=sharing)
 
 ## Requirement
 The project uses the collab file provided by user camenduru on github to access the stable diffusion 3 model notebook environment as it consumes less GPU power.
